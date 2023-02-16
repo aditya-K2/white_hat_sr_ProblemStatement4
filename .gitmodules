@@ -1,0 +1,4 @@
+[submodule "white_hat_sr_ProblemStatement4_frontend"]
+	path = white_hat_sr_ProblemStatement4_frontend
+	url = https://github.com/aditya-K2/white_hat_sr_ProblemStatement4_frontend.git
+	branch = master
