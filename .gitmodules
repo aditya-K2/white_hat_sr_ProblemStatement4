@@ -2,3 +2,7 @@
 	path = white_hat_sr_ProblemStatement4_frontend
 	url = https://github.com/aditya-K2/white_hat_sr_ProblemStatement4_frontend.git
 	branch = master
+[submodule "white_hat_sr_ProblemStatement4_backend"]
+	path = white_hat_sr_ProblemStatement4_backend
+	url = https://github.com/Alok-Joshi/white_hat_sr_ProblemStatement4_backend.git
+	branch = main
